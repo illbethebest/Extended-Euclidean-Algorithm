@@ -8,7 +8,7 @@ int exgcd(int Coprime_Number1, int Coprime_Number2, int &Inverse_Of_X, int &Inve
 
 int main()
 {
-	int Coprime_Number1,Coprime_Number2；
+	int Coprime_Number1,Coprime_Number2;
 	int Inverse_Of_X,Inverse_Of_Y;   //用来存放ax+by=1(等价于ax≡1 mod b)的解。
 	printf("请输入两个正整数：\n");
 	scanf_s("%d%d", &Coprime_Number1, &Coprime_Number2);    
