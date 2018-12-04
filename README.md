@@ -1,1 +1,2 @@
 # Extended Euclidean Algorithm
+The extended Euclidean algorithm is an extension to the Euclidean algorithm，not only it can compute the greatest common divisor of two integers,but also the coefficients of Bézout's identity.
